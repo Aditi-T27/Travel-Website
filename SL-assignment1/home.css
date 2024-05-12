@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0px;
+}
+
+.nav1{
+    padding: 0px 25px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+.nav-link{
+    color: white;
+}
+.elem{
+    border:1px solid black;
+    display: flex;
+    align-items: center;
+    width:75%;
+    justify-content: center;
+    border-radius: 50px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px; 
+    margin:20px;
+}
+.nav1{
+    display: flex;
+}
+li{
+   list-style: none;
+   padding: 1px 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+    margin: 2px;
+    background-color: white;
+}
